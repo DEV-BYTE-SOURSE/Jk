@@ -1,0 +1,20 @@
+.nav {
+  height:50px;
+      background:blue;
+     }
+.nav div {
+  display:inline-block;
+  position:absolute;
+  left:0;
+  padding:15px;
+  font-size:20px
+  color:pink;
+}
+.nav ul li {
+  position:absolute;
+  right:5px;
+}
+.nav ul li a {
+  color:red;
+  padding:5px;
+}
